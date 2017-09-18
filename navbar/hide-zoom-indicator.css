@@ -1,0 +1,10 @@
+/*
+ * Removes zoom indicator from Awesome Bar
+ *
+ * Contributor(s): BubiBalboa
+ */
+
+
+#urlbar-zoom-button { 
+  display: none !important; 
+}
